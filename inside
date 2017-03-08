@@ -1,0 +1,40 @@
+ PlanType planType=new PlanType();
+				planType.setFirstName();
+				planType.setLastName();
+				planType.setDateofBirth();
+				planType.setGroupId();
+				
+				planType.setMemberId();
+				planType.setSubscriberId();
+				planType.setAlernateId();
+				planType.setMemberSsn();
+				planType.setMemberType();
+				planType.setFirstName();
+				planType.setPlanceEffectiveStartDate();
+				planType.setPlanceEffectiveEndDate();
+				planType.setGroupName();
+				planType.setIdMemberType();
+				planType.setPlanEligibilityIndicator();
+    		
+    		planType.setsitusState();
+    		planType.setcoverageCode();
+    		planType.setrelationshipCode();
+    		planType.setglobalSolutionsIndicator();
+    		planType.setsourceCode();
+    		planType.setmarketNumber();
+    		planType.setmarketType();
+    		planType.setobligorId();
+    		planType.setproductCode();
+    		planType.setsharedArrangementCode();
+    		planType.setcdbXrefId();
+    		planType.setcdbPartitionNumber();
+    		planType.setgovernmentProgramTypeCode();   
+    		planType.setplanVariation();
+    		planType.setreportingCode();    	
+    		<!-- Additional fields for GE/H4me 2.0 -start -->
+    		
+    		<!-- Additional fields for UHC west issue -start -->
+    		planType.seteligibilitySystemTypeCode();   
+    		planType.setclaimSystemTypeCode();
+    		planType.setmigrateLegacySourceId();   
+    		planType.setmigrateLegacyPolicyNumber();
